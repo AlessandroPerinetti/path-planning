@@ -17,6 +17,12 @@ highway loop.
 
 The highway's waypoints loop around so the frenet s value, distance along the road, goes from 0 to 6945.554. 
 
+<p float="left">
+  <img src="./media/path-planning-gif-1.gif" width="250" />
+  <img src="./media/path-planning-gif-2.gif" width="250" /> 
+</p>
+     
+
 ## Dependencies
 The project has the following dependencies (from Udacity's seed project): 
 
