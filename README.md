@@ -18,8 +18,8 @@ highway loop.
 The highway's waypoints loop around so the frenet s value, distance along the road, goes from 0 to 6945.554. 
 
 <p float="left">
-  <img src="./media/path-planning-gif-1.gif" width="250" />
-  <img src="./media/path-planning-gif-2.gif" width="250" /> 
+  <img src="./media/path-planning-gif-1.gif" width="400" />
+  <img src="./media/path-planning-gif-2.gif" width="400" /> 
 </p>
      
 
@@ -96,11 +96,15 @@ The rest of the points are evaluated by the spline and then the output coordinat
 
 ## [Rubric points](https://review.udacity.com/#!/rubrics/1971/view)  
 #### The code compiles correctly. :heavy_check_mark:
-
+<p float="left">
+  <img src="./media/path-planning-result.jpg" width="600" />
+</p>
 #### The car is able to drive at least 4.32 miles without incident. :heavy_check_mark:
 
 The simulation completes a loop without any incident. Here there is an image.
-
+<p float="left">
+  <img src="./media/path-planning-build.jpg" width="600" />
+</p>
 #### The car drives according to the speed limit. :heavy_check_mark:
 The car always stays under the 50-mph limit. 
 
